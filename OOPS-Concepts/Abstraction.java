@@ -94,7 +94,7 @@ final class Hexagon extends Shape
       System.out.println("Finalise method of class Hexagon");
    }
 }
-public class Abstraction1
+public class Abstraction
 {
    public static void main(String args[])
    {
